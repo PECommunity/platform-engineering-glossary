@@ -3,6 +3,14 @@
 
 ## 平台
 
+REF.
+- What Is a Platform, Anyway? https://builtin.com/founders-entrepreneurship/what-is-a-platform
+- What Is a Platform? https://www.lifewire.com/what-is-a-platform-4155653
+- Platform https://www.webopedia.com/definitions/platform/
+- Platform https://www.techopedia.com/definition/3411/platform-computing
+- 软件领域平台是什么 https://www.jianshu.com/p/0403dd74b092 
+
+
 ## 平台工程
 Platform engineering is the discipline of building and operating self-service internal developer platforms (IDPs) for software delivery and life cycle management.
 ~ By Gartner
@@ -24,10 +32,10 @@ REF.
 
 
 ## 内部开发者门户 | 内部开发者平台
-
+IDP: Internal Developer Portal | Platform
 
 ## 自服务
-
+Self-service 
 
 ## 开发者体验 
 DevEx: Developer Experience 
@@ -41,13 +49,13 @@ REF.
 
 
 ## 平台团队 | 平台工程团队
-
+Platform Team | Platform Engineering Team
 
 ## 平台工程师
-
+Platform Engineer
 
 ## 平台产品经理
-
+Platform Product Manager 
 
 ## 开发者控制面
 DCP : Developer Control Plane 
