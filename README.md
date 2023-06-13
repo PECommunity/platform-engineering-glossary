@@ -54,6 +54,15 @@ PaaP : Platform as a Product
 ## 动态配置管理
 DCM : Dynamic Configuration Management 
 
+## 黄金路径 
+Golden Path 
+
+REF.
+- https://cloud.redhat.com/blog/designing-golden-paths
+- https://tanzu.vmware.com/golden-paths
+- https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/
+- https://medium.com/startup-by-design/goldenpath-156c1ff291ab
+
 
 ## 团队拓扑 
 Team Topologies  
@@ -67,9 +76,10 @@ Cognitive Load
 Knowledge Transfer 
 
 
-## 最薄可用平台
+## 最薄可行平台
 TVP : Thinnest viable platform 
 
 REF.
 - https://teamtopologies.com/key-concepts-content/what-is-a-thinnest-viable-platform-tvp 
+- https://itrevolution.com/articles/team-cognitive-load-team-topologies/ 
 
