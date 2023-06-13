@@ -7,6 +7,8 @@
 Platform engineering is the discipline of building and operating self-service internal developer platforms (IDPs) for software delivery and life cycle management.
 ~ By Gartner
 
+Platform engineering is the act of building tools and workflows that provide self-service capabilities to developers. Those tools and workflows are called an Internal Developer Platform (IDP).
+
 The definition of platform engineering is the continuous development, building, and maintenance of infrastructure (like toolchains and workflows) in order to build self-service solutions. That enables value stream development teams to deliver quickly and provide consistency to the rest of the organization.
 ~ By Puppet 
 
