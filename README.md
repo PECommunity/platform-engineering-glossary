@@ -28,6 +28,14 @@ REF.
 
 
 ## 开发者体验 
+DevEx: Developer Experience 
+
+## 运维人员体验
+OS: Operator Experience
+
+REF.
+- https://itrevolution.com/articles/team-cognitive-load-team-topologies/ 
+- https://medium.com/statuscode/designing-for-the-operator-experience-21b63db8143 
 
 
 ## 平台团队 | 平台工程团队
