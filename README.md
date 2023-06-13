@@ -70,4 +70,6 @@ Knowledge Transfer
 ## 最薄可用平台
 TVP : Thinnest viable platform 
 
+REF.
+- https://teamtopologies.com/key-concepts-content/what-is-a-thinnest-viable-platform-tvp 
 
