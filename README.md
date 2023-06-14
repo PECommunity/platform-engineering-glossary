@@ -1,16 +1,6 @@
 # Platform-engineering-glossary
 平台工程术语表
 
-## 平台
-
-REF.
-- What Is a Platform, Anyway? https://builtin.com/founders-entrepreneurship/what-is-a-platform
-- What Is a Platform? https://www.lifewire.com/what-is-a-platform-4155653
-- Platform https://www.webopedia.com/definitions/platform/
-- Platform https://www.techopedia.com/definition/3411/platform-computing
-- 软件领域平台是什么 https://www.jianshu.com/p/0403dd74b092 
-
-
 ## 平台工程
 Platform engineering is the discipline of building and operating self-service internal developer platforms (IDPs) for software delivery and life cycle management.
 ~ By Gartner
@@ -100,4 +90,27 @@ TVP : Thinnest viable platform
 REF.
 - https://teamtopologies.com/key-concepts-content/what-is-a-thinnest-viable-platform-tvp 
 - https://itrevolution.com/articles/team-cognitive-load-team-topologies/ 
+
+## 平台
+Platform
+
+REF.
+- What Is a Platform, Anyway? https://builtin.com/founders-entrepreneurship/what-is-a-platform
+- What Is a Platform? https://www.lifewire.com/what-is-a-platform-4155653
+- Platform https://www.webopedia.com/definitions/platform/
+- Platform https://www.techopedia.com/definition/3411/platform-computing
+- 软件领域平台是什么 https://www.jianshu.com/p/0403dd74b092 
+
+## 平台企业
+Platform Company 
+
+平台商业模式，平台经济
+
+REF.
+- https://york.ie/blog/what-is-platform-company-moving-from-product-to-platform/
+- https://fourweekmba.com/platform-company/ 
+- https://www.applicoinc.com/blog/what-is-a-platform-business-model/ 
+- https://fourweekmba.com/platform-business-models/ 
+- https://innovator.news/the-platform-economy-3c09439b56 
+
 
