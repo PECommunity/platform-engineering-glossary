@@ -1,7 +1,20 @@
 # Platform-engineering-glossary
 平台工程术语表
 
+## 属于模板
+````
+## 术语名称（中文）
+缩写（如有）: 术语英文名称
+术语定义/概述/解释 (如引用第三方权威定义，直接注明出处)
+相关术语/需要区分的术语
+参考资料
+- 1
+- 2
+````
+
 ## 平台工程
+PE: Platform Engineering
+
 Platform engineering is the discipline of building and operating self-service internal developer platforms (IDPs) for software delivery and life cycle management.
 ~ By Gartner
 
@@ -9,6 +22,8 @@ Platform engineering is the act of building tools and workflows that provide sel
 
 The definition of platform engineering is the continuous development, building, and maintenance of infrastructure (like toolchains and workflows) in order to build self-service solutions. That enables value stream development teams to deliver quickly and provide consistency to the rest of the organization.
 ~ By Puppet 
+
+软件工程，DevOps，平台，平台团队，平台工程师 
 
 REF. 
 - Gartner https://www.gartner.com/en/articles/what-is-platform-engineering
